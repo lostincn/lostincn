@@ -1,16 +1,14 @@
 ### Hi there 👋
-
-<!--
-**lostincn/lostincn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Aidarov Eldar. 
+I'm looking forward to being part of Your Team.
+👀 I’m interested in FrontEnd Development, Blockchain and 
+🌱 in future i plan to dive into GoLang
+📫 You can reach me: @lostinue is my Telegram, @lostincn my INSTA 
+📧 Email: aidaroffski@gmail.com
+⚡ Fun fact: I've spent 8 years living in China
+🗣️ Languages i speak:
+     ㊙️ Mandarin - Fluent
+     🔠 English - Professional
+     🪆 Russian - Native
+     🏔️ Kyrgyz - Native
+  
