@@ -5,7 +5,8 @@
  🌱 in future i plan to dive into GoLang  
  📫 You can reach me: @lostinue is my Telegram, @lostincn my INSTA   
  📧 Email: aidaroffski@gmail.com  
- ⚡ Fun fact: I've spent 8 years living in China  
+ ⚡ Fun fact: I've spent 8 years in China - study, travel, work.  
+ 🌏 Current Location: Moscow, Russia  
  🗣️ Languages i speak:  
      ㊙️ Mandarin - Fluent  
      🔠 English - Professional  
