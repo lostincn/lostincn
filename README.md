@@ -10,6 +10,6 @@
  🗣️ Languages i speak:  
      ㊙️ Mandarin - Fluent  
      🔠 English - Professional  
-     🪆 Russian - Native  
+     🍻 Russian - Native  
      🏔️ Kyrgyz - Native  
   
